@@ -1,9 +1,10 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
   :root {
     --background: #F0F2F5;
     --red: #E62E4D;
+    --green: #33CC95;;
     --blue: #5429CC;
     --blue-light: #6933FF;
     --text-title: #363F5F;
@@ -42,4 +43,4 @@ export const GlobalStyle = createGlobalStyle`
     opacity: 0.6;
     cursor: not-allowed
   }
-`;
+`
