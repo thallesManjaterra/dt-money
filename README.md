@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img alt="dtmoney" title="dtmoney" src="./.github/logo.svg" width="220px" />
-</h1>
-
+![image](https://user-images.githubusercontent.com/99992018/164111130-fabfd8b5-1e98-4286-bfa6-6ea4a4687ee6.png)
 ![Captura de tela_2022-04-19_19-16-02](https://user-images.githubusercontent.com/99992018/164110883-0d566b5c-f577-4bd7-b149-cbaa5a3c5ca4.png)
 ![Captura de tela_2022-04-19_19-16-44](https://user-images.githubusercontent.com/99992018/164110888-feda37c5-39cb-4cd2-a3aa-0d832149904c.png)
 
