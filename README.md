@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/99992018/164111130-fabfd8b5-1e98-4286-bfa6-6ea4a4687ee6.png)
+## DT MONEY
+
 ![Captura de tela_2022-04-19_19-16-02](https://user-images.githubusercontent.com/99992018/164110883-0d566b5c-f577-4bd7-b149-cbaa5a3c5ca4.png)
 ![Captura de tela_2022-04-19_19-16-44](https://user-images.githubusercontent.com/99992018/164110888-feda37c5-39cb-4cd2-a3aa-0d832149904c.png)
 
@@ -16,3 +17,22 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Axios (biblioteca usada no lugar de fetch(), que passa a não precisarmos repetir a digitação do endereço do servidor em cada requisição, informando apenas a rota e seus parâmetros, e também passamos a poder interceptar requisições e respostas pra nossa API antes de chegar no back-end para realizar alguma regra, por exemplo enviar algum token de autenticação)
 - React Modal (biblioteca que renderiza o conteúdo de seu filho sobre um componente backdrop e fornece muitos recursos relacionados a interação destes dois)
 - Polished (biblioteca que possui funções otimizadas de estilos para usar no JavaScript, como darken e transparentize)
+- 
+## Instalação e uso
+
+```bash
+# Abra um terminal e copie este repositório com o comando
+git clone https://github.com/martins-rafael/dtmoney.git
+# ou use a opção de download.
+
+# Entre na pasta web com 
+cd dtmoney
+
+# Instale as dependências
+yarn install
+
+# Rode a aplicação
+yarn start
+```
+
+<br>
